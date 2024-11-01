@@ -1,12 +1,4 @@
-## Hello World
-
-My name is Robert. I am a licensed Professional Engineer (PE) in the state of California.
-
-### Interests
-
-- Structural analysis
-- Earthquake engineering
-- Intersection of engineering and design
+My name is Robert. I am a licensed Professional Engineer (PE) in the state of California. My interest lies at the intersection of engineering and design.
 
 ### Projects
 
