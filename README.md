@@ -1,8 +1,8 @@
 ## Hello World
 
-Hi, my name is Robert. Most people call me Rob or Bob. I am a licensed Professional Engineer (PE) in the state of California. 
+My name is Robert. I am a licensed Professional Engineer (PE) in the state of California. I am interested in structural analysis, earthquake engineering, and design.
 
-### Projects I am Maintaining
+### Projects
 
 - **fkit**: fiber section analysis for reinforced-concrete, steel, wood, etc.
 - **fapp**: ight-weight, easy-to-use 3D FEM program written in python
